@@ -1,4 +1,4 @@
-Quiz App
+*Quiz App*
 
 A responsive and interactive quiz application built using HTML, CSS, and JavaScript. This app allows users to test their knowledge across a variety of questions in a clean and user-friendly interface.
 
@@ -35,3 +35,4 @@ quiz-app/
 
 Customization
 You can modify or extend the question set by editing the question data in script.js. Additional features like timers, categories, or persistent score tracking can also be integrated as needed.
+
