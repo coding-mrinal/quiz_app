@@ -31,14 +31,8 @@ To run the app locally:
 4. Open `index.html` in your preferred browser.
    No additional setup or dependencies are required.
 
-## File Structure
-
-quiz-app/
-├── index.html
-├── style.css
-├── script.js
-
 ## Customization
 
 You can modify or extend the question set by editing the question data in `script.js`. Additional features like timers, categories, or persistent score tracking can also be integrated as needed.
+
 
